@@ -1,0 +1,13 @@
+rect 39x1
+rotate column x=44 by 2
+rotate column x=42 by 2
+rotate column x=35 by 5
+rotate column x=34 by 2
+rotate column x=32 by 2
+rotate column x=29 by 2
+rotate column x=25 by 5
+rotate column x=24 by 2
+rotate column x=19 by 2
+rotate column x=15 by 4
+rotate column x=14 by 2
+rotate column x=12 by 3
